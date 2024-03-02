@@ -8,5 +8,10 @@
 		"prompt": "This is the second question",
 		"answer": "This is the answer.",
 		"link": "https://facebook.com"
-	}
+	},
+
+    {   "prompt": "This is my instagram",
+	    "answer": "Here is my link.", 
+		"link": "https://www.instagram.com/o_o_ark?igsh=MnMxdTQxa3p2ejhp&utm_source=qr"
+    }	
 ]
