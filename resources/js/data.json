@@ -1,0 +1,12 @@
+[
+    {
+		"prompt": "Test question <span>1234</span>. Tell <b>me</b> something.",
+		"answer": "This is the answer.",
+		"link": "https://google.com"
+	},
+    {
+		"prompt": "This is the second question",
+		"answer": "This is the answer.",
+		"link": "https://facebook.com"
+	}
+]
