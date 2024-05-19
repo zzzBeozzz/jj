@@ -328,3 +328,12 @@ li.active-link div::before {
     margin-top: 45px;
   }
 }
+/* Align the question number to the left */
+.back h3 {
+  text-align: left;
+}
+
+/* Make the prompt text gray */
+.back p {
+  color: #808080;
+}
