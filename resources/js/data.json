@@ -1,16 +1,16 @@
 [
     {
-		"prompt": "Test question <span>1234</span>. Tell <b>me</b> something.",
-		"answer": "This is the answer.",
-		"link": "https://google.com"
+		"prompt": "what is the verb form of choose? <span>choose</span>. Tell <b>me</b> something.",
+		"answer": "Choice.",
+		"link": "https://www.wordhippo.com/what-is/the-noun-for/choose.html"
 	},
     {
-		"prompt": "This is the second question",
-		"answer": "This is the answer.",
-		"link": "https://facebook.com"
+		"prompt": "What is the verb form of believe?",
+		"answer": "Belief.",
+		"link": "https://www.wordreference.com/definition/believe#:~:text=believe%20is%20a%20verb%2C%20belief,religious%20beliefs%20guide%20her%20life."
 	},
 
-    {   "prompt": "This is my instagram",
+    {   "prompt": "Flip it! There is my instagram, Thanks for playing! ",
 	    "answer": "Here is my link.", 
 		"link": "https://www.instagram.com/o_o_ark?igsh=MnMxdTQxa3p2ejhp&utm_source=qr"
     }	
